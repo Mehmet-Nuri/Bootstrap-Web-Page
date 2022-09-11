@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /*! NAVBAR  */
+  
+  /*! BANNER  */
+  .banner {
+    background-image: url(https://www.imamcagdas.com/Data/BlockUploadData/slider/img1/2682/23-tr.jpg?1651140395);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  .banner__par {
+    text-align: center;
+    padding: 15%;
+    color: #eee;
+  }
+  
+  /*! Services  */
+  /*! Portfolio  */
+  
+  /*! About us  */
+  /*! Our Team  */
+  /*! Buttom Navbar  */
+  /*! Contact us  */
+  .contact {
+    background-image: url(../img/map.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: #eee;
+  }
+  /*! Footer  */
+  
